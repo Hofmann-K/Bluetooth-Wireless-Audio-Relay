@@ -11,11 +11,14 @@ The audio playback folder consists of all files needed in order to run the code 
 ### Audio Streaming
 The audio streaming folder consists of all files needed in order to run the code to allow the streaming of audio via the device's microphone directly to an output device that is connected via Bluetooth. The user will be able to set the phone or device running the application anywhere they would like to hear live audio from and have that audio be live streamed directly into the output device. This portion of the code was made using Java for the backend and Kotlin using Jetpack Compose for the front end user interface.
 #### Note that there is unused and commented out code within the streaming audio code from the audio playback code (specifically any code that is titled audio player or has mention of audio player). This is there in hopes that future groups will be able to combine the two projects into one
+### Nordic NRF-53 Basic Hardware Implementation
+To view and modify the nordic code, visit the master branch and download from there. Detailed instructions can be found at the bottom of the page in the hardware tutorial
 
 ## Future Developments
 A major focus of this project was to act as the foundation for future projects. Using our tutorial, we wanted to help future groups at The College of New Jersey skip the tedium and frustration of starting a new project. Using this as a building block, we hope our tutorial and code can be used in future projects in order to develop use cases we had in mind from complex projects like creating a hearing aid that will be able to playback X amount of seconds of a conversation to help those that are hard of hearing to simpler projects like using it as a baby monitor where you could set up the device in a room and hear what is going on while being in another.
 
 ## How to Import from GitHub
+### For assistance with hardware code, please see the hardware tutorial at the bottom of the page
 1. Clone the GitHub Repository:
    - Open Android Studio.
    - Click on "Get from Version Control" or go to `File > New > Project from Version Control`.
