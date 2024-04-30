@@ -37,3 +37,5 @@ A major focus of this project was to act as the foundation for future projects. 
 
 ## Project Tutorials
 Software Tutorial: https://rb.gy/rmf3bg
+
+Hardware Tutorial: https://rb.gy/7zgii6
